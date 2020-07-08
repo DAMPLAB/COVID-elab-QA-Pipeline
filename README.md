@@ -5,18 +5,33 @@
 The QA repository will have the following structure:
 
 ```
-- Scripts
+- scripts
 |-- setup.js
 |-- test_i.js
 - SETUP
-|-- *.csv
+|-- INPUTS
+    |-- *.csv
+|-- OUTPUTS
+    |-- *.csv
 - TEST_1
-|-- *.csv
+|-- INPUTS
+    |-- *.csv
+|-- OUTPUTS
+    |-- *.csv
 - TEST_2
-|-- *.csv
+|-- INPUTS
+    |-- *.csv
+|-- OUTPUTS
+    |-- *.csv
 - TEST_3
-|-- *.csv
+|-- INPUTS
+    |-- *.csv
+|-- OUTPUTS
+    |-- *.csv
 - ..
 - TEST_N
-|-- *.csv
+|-- INPUTS
+    |-- *.csv
+|-- OUTPUTS
+    |-- *.csv
 ```
