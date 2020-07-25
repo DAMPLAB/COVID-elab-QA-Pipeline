@@ -1,0 +1,5 @@
+-,-,-,-,-,-,-,-,-,-,-,
+-,-,-,-,-,-,-,-,-,-,-,
+Index,Protocol,Sample Tube Barcode,Input Barcode,Input Well Number,Output Barcode,Output Well Number,Date/Time,UserName,Machine SN,Reagent Names,Reagent Lot Numbers
+1,QPCR_PREP,62020051903418,H990PVB3,G1,H3K006G7,G1,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+2,QPCR_PREP,62020051903419,H990PVB3,H2,H3K006G7,H2,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"

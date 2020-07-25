@@ -1,0 +1,46 @@
+# Plate File Name: G:\2020-07-20 AUTOMATED EXTRACTION PLATE 2.eds,,,
+# Description:,,,
+# User Name: CAMG,,,
+# Last Modified Date/Time: 1969-12-31 10:30:00 PM EST,,,
+# Date Created: 2020-07-20 10:30:00 AM EDT,,,
+# Barcode: H3K006LC,,,
+# Instrument Type: QuantStudio™ 7 System,,,
+# Block Type: 384-Well Block,,,
+# Instrument Name: 278872955,,,
+# Instrument Serial Number: 95521,,,
+# Heated Cover Serial Number: null,,,
+# Block Serial Number: null,,,
+# Plate Run Start Date/Time: 2020-07-20 10:30:00 AM EDT,,,
+# Plate Run End Date/Time: 2020-07-20 10:30:00 AM EDT,,,
+# Run Duration: 93 minutes 41 seconds,,,
+# Sample Volume: 20.0,,,
+# Cover Temperature: 105.0,,,
+# PCR Stage / Cycle where Analysis is performed: Stage 2 Step 2,,,
+# Pre-read Stage/Step:,,,
+# Post-read Stage/Step:,,,
+# Passive Reference: null,,,
+# Quantification Cycle Method: CT,,,
+,,,
+[Well Call],,,
+Well Position,Sample,Call,Assessment
+A1,PCR_POS,POSITIVE,PCR Positive Control Passed
+C1,NTC_1,NEGATIVE,Extraction NTC Passed
+C2,NTC_2,NEGATIVE,Extraction NTC Passed
+D1,NTC_3,NEGATIVE,Extraction NTC Passed
+D2,NTC_4,WARNING,Extraction NTC Failed
+E1,NEC_1,WARNING,Extraction NEC Failed
+E2,NEC_2,NEGATIVE,Extraction NEC Passed
+F1,NEC_3,NEGATIVE,Extraction NEC Passed
+F2,NEC_4,NEGATIVE,Extraction NEC Passed
+G3,62020051903406,POSITIVE,Sample is presumed positive
+G4,62020051903407,POSITIVE,Sample is presumed positive
+G5,62020051903408,POSITIVE,Sample is presumed positive
+G6,62020051903409,POSITIVE,Sample is presumed positive
+G7,62020051903410,POSITIVE,Sample is presumed positive
+G8,62020051903411,NEGATIVE,Sample is presumed negative
+H3,62020051903412,POSITIVE,Sample is presumed positive
+H4,62020051903413,POSITIVE,Sample is presumed positive
+H5,62020051903414,INCONCLUSIVE,Recollect
+H6,62020051903415,POSITIVE,Sample is presumed positive
+H7,62020051903416,INVALID,Recollect
+H8,62020051903417,POSITIVE,Sample is presumed positive

@@ -1,0 +1,40 @@
+# Plate File Name: G:\2020-07-20 AUTOMATED EXTRACTION PLATE 2.eds
+# Description:
+# User Name: CAMG
+# Last Modified Date/Time: 1969-12-31 10:30:00 PM EST
+# Date Created: 2020-07-20 10:30:00 AM EDT
+# Barcode: H3K006LC
+# Instrument Type: QuantStudio™ 7 System
+# Block Type: 384-Well Block
+# Instrument Name: 278872955
+# Instrument Serial Number: 9999999999999999999999999
+# Heated Cover Serial Number: null
+# Block Serial Number: null
+# Plate Run Start Date/Time: 2020-07-20 10:30:00 AM EDT
+# Plate Run End Date/Time: 2020-07-20 10:30:00 AM EDT
+# Run Duration: 93 minutes 41 seconds
+# Sample Volume: 20.0
+# Cover Temperature: 105.0
+# PCR Stage / Cycle where Analysis is performed: Stage 2 Step 2
+# Pre-read Stage/Step:
+# Post-read Stage/Step:
+# Passive Reference: null
+# Quantification Cycle Method: CT
+
+[Target Call]
+Well Position,Sample,Target,Cq
+A1,PCR_POS,N1,25.48948523
+A1,PCR_POS,N2,25.48948523
+A1,PCR_POS,RP,25.48948523
+G1,62020051903420,N1,25.48948523
+G1,62020051903420,N2,25.48948523
+G1,62020051903420,RP,25.48948523
+G2,62020051903421,N1,25.48948523
+G2,62020051903421,N2,25.48948523
+G2,62020051903421,RP,25.48948523
+H1,62020051903422,N1,25.48948523
+H1,62020051903422,N2,25.48948523
+H1,62020051903422,RP,25.48948523
+H2,62020051903423,N1,25.48948523
+H2,62020051903423,N2,25.48948523
+H2,62020051903423,RP,25.48948523

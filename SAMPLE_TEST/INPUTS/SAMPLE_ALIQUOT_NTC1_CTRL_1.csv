@@ -1,0 +1,5 @@
+-,-,-,-,-,-,-,-,-,-,-,
+-,-,-,-,-,-,-,-,-,-,-,
+Index,Protocol,Sample Tube Barcode,Input Barcode,Input Well Number,Output Barcode,Output Well Number,Date/Time,UserName,Machine SN,Reagent Names,Reagent Lot Numbers
+11,SAMPLE_ALIQUOT,62020051903424,S0139453,C3,DW0000000004A,C3,7/19/2020 10:15,camg,SN0000,"['Sample Aliquot Nuclease Free Water','NEC']","['1615','51651']"
+12,SAMPLE_ALIQUOT,62020051903425,S0139453,C5,DW0000000004A,C5,7/19/2020 10:15,camg,SN0000,"['Sample Aliquot Nuclease Free Water','NEC']","['1615','51651']"

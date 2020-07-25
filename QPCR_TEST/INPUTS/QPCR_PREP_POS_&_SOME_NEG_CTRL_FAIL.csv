@@ -1,0 +1,15 @@
+-,-,-,-,-,-,-,-,-,-,-,
+-,-,-,-,-,-,-,-,-,-,-,
+Index,Protocol,Sample Tube Barcode,Input Barcode,Input Well Number,Output Barcode,Output Well Number,Date/Time,UserName,Machine SN,Reagent Names,Reagent Lot Numbers
+3,QPCR_PREP,62020051903406,H990PVB3,G3,H3K006G7,G3,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+4,QPCR_PREP,62020051903407,H990PVB3,G4,H3K006G7,G4,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+5,QPCR_PREP,62020051903408,H990PVB3,G5,H3K006G7,G5,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+6,QPCR_PREP,62020051903409,H990PVB3,G6,H3K006G7,G6,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+7,QPCR_PREP,62020051903410,H990PVB3,G7,H3K006G7,G7,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+8,QPCR_PREP,62020051903411,H990PVB3,G8,H3K006G7,G8,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+11,QPCR_PREP,62020051903412,H990PVB3,H3,H3K006G7,H3,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+12,QPCR_PREP,62020051903413,H990PVB3,H4,H3K006G7,H4,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+13,QPCR_PREP,62020051903414,H990PVB3,H5,H3K006G7,H5,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+14,QPCR_PREP,62020051903415,H990PVB3,H6,H3K006G7,H6,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+15,QPCR_PREP,62020051903416,H990PVB3,H7,H3K006G7,H7,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"
+16,QPCR_PREP,62020051903417,H990PVB3,H8,H3K006G7,H8,7/21/2020 12:25,camg,SN0000,"['Master Mix','Primers and Probes','qPCR Nuclease Free Water','SARS-CoV-2 Positive Control']","['56464531',64651512',64818985','189877985']"

@@ -1,0 +1,7 @@
+-,-,-,-,-,-,-,-,-,-,-,
+-,-,-,-,-,-,-,-,-,-,-,
+Index,Protocol,Sample Tube Barcode,Input Barcode,Input Well Number,Output Barcode,Output Well Number,Date/Time,UserName,Machine SN,Reagent Names,Reagent Lot Numbers
+1,RNA_EXTRACTION,62020051903420,b1234567,G1,H990PVB3,G1,7/21/2020 12:20,camg,SN0000,"['Proteinase K','Binding Solution','Magnetic Beads','Wash Buffer','Ethanol','Extraction Nuclease Free Water','Elution Buffer']","['53-a453','373!z73',783 5936','9999999999999999999999999','83780578','0544542782','52450540']"
+2,RNA_EXTRACTION,62020051903421,b1234567,G2,H990PVB3,G2,7/21/2020 12:20,camg,SN0000,"['Proteinase K','Binding Solution','Magnetic Beads','Wash Buffer','Ethanol','Extraction Nuclease Free Water','Elution Buffer']","['53-a453','373!z73',783 5936','9999999999999999999999999','83780578','0544542782','52450540']"
+9,RNA_EXTRACTION,62020051903422,b1234567,H1,H990PVB3,H1,7/21/2020 12:20,camg,SN0000,"['Proteinase K','Binding Solution','Magnetic Beads','Wash Buffer','Ethanol','Extraction Nuclease Free Water','Elution Buffer']","['53-a453','373!z73',783 5936','9999999999999999999999999','83780578','0544542782','52450540']"
+10,RNA_EXTRACTION,62020051903423,b1234567,H2,H990PVB3,H2,7/21/2020 12:20,camg,SN0000,"['Proteinase K','Binding Solution','Magnetic Beads','Wash Buffer','Ethanol','Extraction Nuclease Free Water','Elution Buffer']","['53-a453','373!z73',783 5936','9999999999999999999999999','83780578','0544542782','52450540']"
