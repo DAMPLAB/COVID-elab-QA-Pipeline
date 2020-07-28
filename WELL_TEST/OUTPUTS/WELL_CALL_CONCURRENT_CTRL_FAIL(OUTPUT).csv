@@ -1,0 +1,3 @@
+Name,Organization,Order Code,Results Delivered,qPCR SN,Number of Attempts,qPCR User,COVID-19 Test Result,Sample Process Status
+62020051903418,Boston University,SARSCOV2,Pending,"95521,,,",1,"CAMG,,,",Control Failed,Re-run RNA Extraction
+62020051903419,Boston University,SARSCOV2,Pending,"95521,,,",1,"CAMG,,,",Control Failed,Re-run qPCR

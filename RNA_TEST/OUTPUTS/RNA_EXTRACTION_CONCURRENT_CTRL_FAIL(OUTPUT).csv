@@ -1,0 +1,3 @@
+Name,Organization,Order Code,Number of Attempts,Results Delivered,Proteinase K,Magnetic Beads,RNA Elution Plate Barcode,RNA Extraction Instrument SN,Binding Solution,Elution Buffer,Extraction Nuclease Free Water,RNA Elution Plate Well Location,Wash Buffer,RNA Extraction User,Sample Process Status,Ethanol
+62020051903418,Boston University,SARSCOV2,0,Pending,53-a453,783 5936,H990PVB3,SN0000,373!z73,52450540,0544542782,G1,9999999999999999999999999,camg,RNA Extracted,83780578
+62020051903419,Boston University,SARSCOV2,0,Pending,53-a453,783 5936,H990PVB3,SN0000,373!z73,52450540,0544542782,H2,9999999999999999999999999,camg,RNA Extracted,83780578

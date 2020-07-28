@@ -1,0 +1,5 @@
+Name,Organization,Order Code,Number of Attempts,Results Delivered,qPCR Plate Barcode,Primers and Probes,Sample Process Status,qPCR Prep User,qPCR Prep Instrument SN,qPCR Plate Well Location,SARS-CoV-2 Positive Control,qPCR Nuclease Free Water,Master Mix
+62020051903421,Boston University,SARSCOV2,0,Pending,H3K006G7,64651512,qPCR Plate Prepared,camg,SN0000,G2,189877985,64818985,56464531
+62020051903423,Boston University,SARSCOV2,0,Pending,H3K006G7,64651512,qPCR Plate Prepared,camg,SN0000,H2,189877985,64818985,56464531
+62020051903420,Boston University,SARSCOV2,0,Pending,H3K006G7,64651512,qPCR Plate Prepared,camg,SN0000,G1,189877985,64818985,56464531
+62020051903422,Boston University,SARSCOV2,0,Pending,H3K006G7,64651512,qPCR Plate Prepared,camg,SN0000,H1,189877985,64818985,56464531

@@ -1,0 +1,5 @@
+Name,Organization,Order Code,Number of Attempts,Results Delivered,Sample Process Status,Sample Aliquot User,Sample Aliquot Instrument SN,Extraction Plate Well Location,Extraction Plate Barcode,Sample Aliquot Nuclease Free Water,NEC
+62020051903421,Boston University,SARSCOV2,0,Pending,Sample Transferred to Extraction Plate,camg,SN0000,G2,DW0000000004A,1615,51651
+62020051903420,Boston University,SARSCOV2,0,Pending,Sample Transferred to Extraction Plate,camg,SN0000,G1,DW0000000004A,1615,51651
+62020051903422,Boston University,SARSCOV2,0,Pending,Sample Transferred to Extraction Plate,camg,SN0000,H1,DW0000000004A,1615,51651
+62020051903423,Boston University,SARSCOV2,0,Pending,Sample Transferred to Extraction Plate,camg,SN0000,H2,DW0000000004A,1615,51651
