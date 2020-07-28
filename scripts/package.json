@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "batch-sample": "node test/make_samples.js --file=example-hamilton-logs/test.csv",
+    "hamilton": "node server.js --file=example-hamilton-logs/test.csv",
+    "qpcr": "node server.js --file='example-qpcr-logs/2020-07-01_MagMAX_IDT_DF_Well Call_20200704 154134.csv'"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "4.3.0",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.5",
+    "uuid": "^8.1.0",
+    "winston": "^3.3.3"
+  }
+}
