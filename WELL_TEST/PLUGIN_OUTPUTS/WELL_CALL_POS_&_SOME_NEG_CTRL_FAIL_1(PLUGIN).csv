@@ -1,0 +1,13 @@
+Name,Organization,Order Code,Results Delivered,qPCR User,Number of Attempts,COVID-19 Test Result,Sample Process Status,qPCR SN
+62020051903406,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
+62020051903408,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
+62020051903412,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Positive,qPCR Completed,"95521,,,"
+62020051903414,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Inconclusive - recollect,qPCR Completed,"95521,,,"
+62020051903416,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Invalid - recollect,qPCR Completed,"95521,,,"
+62020051903413,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
+62020051903407,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Positive,qPCR Completed,"95521,,,"
+62020051903409,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Positive,qPCR Completed,"95521,,,"
+62020051903411,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Negative,qPCR Completed,"95521,,,"
+62020051903410,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
+62020051903417,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
+62020051903415,Boston University,SARSCOV2,Pending,"CAMG,,,",1,Control Failed,Re-run RNA Extraction,"95521,,,"
